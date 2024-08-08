@@ -21,10 +21,3 @@ WHO started SOLID Principles
 - Interface Segregation
 - Dependency Inversion
 
-💭 Context
-==========
-- Simple Zoo Game 🦊
-- Some characters - zoo staff, visitors, animals, ...
-- Some structures - cages, walls, doors, ...
-
-
